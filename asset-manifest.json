@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flag-guessing-game/static/css/main.2a633911.css",
+    "main.js": "/flag-guessing-game/static/js/main.624beab7.js",
+    "static/js/453.d5386c2e.chunk.js": "/flag-guessing-game/static/js/453.d5386c2e.chunk.js",
+    "index.html": "/flag-guessing-game/index.html",
+    "main.2a633911.css.map": "/flag-guessing-game/static/css/main.2a633911.css.map",
+    "main.624beab7.js.map": "/flag-guessing-game/static/js/main.624beab7.js.map",
+    "453.d5386c2e.chunk.js.map": "/flag-guessing-game/static/js/453.d5386c2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a633911.css",
+    "static/js/main.624beab7.js"
+  ]
+}
